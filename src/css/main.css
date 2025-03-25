@@ -49,7 +49,7 @@ body {
 }
 
 .logo img {
-  width: var(--logo-width);
+  width: 114px;
 }
 
 .wrapper {
